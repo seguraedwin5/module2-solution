@@ -3,7 +3,7 @@
 	box-sizing: border-box;
 }
 h1 {
-	color: red;
+	color: blue;
 	background-color: green;
 	width: 50%;
 	border: 1px solid black;
@@ -11,17 +11,21 @@ h1 {
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
+	font-size: 1.75em; 
 }
  div section {
- 	background-color: #ff0000;
+ 	background-color: #afe2e3;
  	text-align: justify;
  	border: 2px solid black;
 		position: relative;
 		margin-bottom: 10px;
-		padding-top: 30px;
+		padding-top: 40px;
 		padding-left: 15px;
 		padding-right: 15px;
 		padding-bottom: 10px;
+		font-family:Arial Narrow;
+		
+
 }
 
 .row {
@@ -30,13 +34,18 @@ h1 {
 
 .title {
 			position: absolute;
-			top: -20px;
+			top: 0;
 			right: 0;
 			border: 1px solid black;
 			border-width: thick;
-			font-size: 20px;
+			font-size: 1.25em;
 			text-align: center;
 			padding: 4px;
+			font-style: italic;
+			font-family: times new roman;
+			font-weight: bold;
+			margin-top: 0;
+
 		}
 #title1{ background-color: #42f59b; }
 #title2{background-color: #42f5e9;}
