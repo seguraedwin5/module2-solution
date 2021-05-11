@@ -24,12 +24,18 @@ h1 {
 		padding-right: 15px;
 		padding-bottom: 10px;
 		font-family:Arial Narrow;
+	 	
 		
 
 }
 
+section {
+	height: 40%;
+}
+
 .row {
 	width: 100%;
+	
 }
 
 .title {
