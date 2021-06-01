@@ -24,8 +24,8 @@ h1 {
 		padding-right: 15px;
 		padding-bottom: 10px;
 		font-family:Arial Narrow;
-	 	height: 300px;
-		
+	 	height: 200px;
+		overflow: auto;
 
 }
 
