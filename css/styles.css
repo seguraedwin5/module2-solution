@@ -24,7 +24,7 @@ h1 {
 		padding-right: 15px;
 		padding-bottom: 10px;
 		font-family:Arial Narrow;
-	 	
+	 	height: 300px;
 		
 
 }
@@ -32,7 +32,7 @@ h1 {
 
 .row {
 	width: 100%;
-	
+	height: 50%;
 }
 
 .title {
@@ -142,4 +142,4 @@ h1 {
 				width: 100%
 			}
 		}
-}
+
