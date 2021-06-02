@@ -3,7 +3,7 @@
 	box-sizing: border-box;
 }
 h1 {
-	color: blue;
+	color: whitesmoke;
 	background-color: green;
 	width: 50%;
 	border: 1px solid black;
@@ -12,6 +12,7 @@ h1 {
 	margin-right: auto;
 	text-align: center;
 	font-size: 1.75em; 
+	border-radius: 10px;
 }
  div section {
  	background-color: #afe2e3;
@@ -24,7 +25,7 @@ h1 {
 		padding-right: 15px;
 		padding-bottom: 10px;
 		font-family:Arial Narrow;
-	 	height: 200px;
+	 	height: 250px;
 		overflow: auto;
 
 }
